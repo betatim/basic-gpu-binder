@@ -5,3 +5,4 @@ dependencies:
   - tensorflow-gpu
   - cudatoolkit=9.0
   - matplotlib
+  - keras-gpu
