@@ -1,0 +1,7 @@
+name: gpu-binder
+channels:
+    - conda-forge
+dependencies:
+  - tensorflow-gpu
+  - cudatoolkit=9.0
+  - matplotlib
